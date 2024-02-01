@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T14:23:49.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oPJnTB4t5qbYLT8whhAl" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T14:29:01.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IGp4Of6f90Q91i778oAK" version="23.1.0" type="github">
   <diagram name="Page-1" id="8F14UimCs2QQtVxCv7sD">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,6 +49,9 @@
         <mxCell id="OSPy2GHmvixCg3EmWLmi-12" value="is the word present" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-14" target="OSPy2GHmvixCg3EmWLmi-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OSPy2GHmvixCg3EmWLmi-14" value="lose&amp;nbsp; life" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
         </mxCell>
@@ -88,6 +91,26 @@
         </mxCell>
         <mxCell id="OSPy2GHmvixCg3EmWLmi-29" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="718" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-31" target="OSPy2GHmvixCg3EmWLmi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-31" target="OSPy2GHmvixCg3EmWLmi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="720" />
+              <mxPoint x="660" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-31" value="are you out of life" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-34" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="678" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-36" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="688" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
