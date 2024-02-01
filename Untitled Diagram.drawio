@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T14:19:45.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CodCfYz7huDAjSM0UVZG" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T14:23:03.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vJpcsUpLwdhn6PSazZ6k" version="23.1.0" type="github">
   <diagram name="Page-1" id="8F14UimCs2QQtVxCv7sD">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,8 +40,50 @@
             <mxPoint x="419.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OSPy2GHmvixCg3EmWLmi-12" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-12" target="OSPy2GHmvixCg3EmWLmi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-12" target="OSPy2GHmvixCg3EmWLmi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-12" value="is the word present" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-14" value="lose&amp;nbsp; life" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-16" target="OSPy2GHmvixCg3EmWLmi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-16" value="replace the blank with letter" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-20" target="OSPy2GHmvixCg3EmWLmi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OSPy2GHmvixCg3EmWLmi-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="720" as="sourcePoint" />
+            <mxPoint x="130" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-20" value="are all the blaank filled" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-22" value="game over" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-26" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="448" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-27" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="448" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-28" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="688" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSPy2GHmvixCg3EmWLmi-29" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="718" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
